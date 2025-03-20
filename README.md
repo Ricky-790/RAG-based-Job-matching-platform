@@ -1,3 +1,5 @@
+[Project for CodeConquer 2025]
+
 <div align="center"><h1> Seeknconnect - an AI powered job portal</h1></div>
 <div align="center">Where Talent Meets Oppurtunity</div>
 
